@@ -1,0 +1,1116 @@
+{
+    "pro_name" : "生活质量反馈问卷",
+    "pro_desc" : "这份表单希望了解您过去7天当中的生活质量情况，包括37个问题，预计需要花费您8分钟的时间，建议您找到座椅慢慢填写，感谢您的耐心。",
+    "items" : [
+        {
+            "name": "我精力不济", 
+            "tag": "GP1",
+            "domain" : "生理状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我感到恶心", 
+            "tag": "GP2",
+            "domain" : "生理状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "因为我身体不好，我满足不了家庭的需要", 
+            "tag": "GP3",
+            "domain" : "生理状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我感到疼痛", 
+            "tag": "GP4",
+            "domain" : "生理状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "治疗的副作用让我觉得不舒服", 
+            "tag": "GP5",
+            "domain" : "生理状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我觉得病了", 
+            "tag": "GP6",
+            "domain" : "生理状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我不得不卧床",
+            "tag": "GP7",
+            "domain" : "生理状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我和朋友们很接近",
+            "tag": "GS1",
+            "domain" : "社会/家庭状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我在感情上得到了家人的支持",
+            "tag": "GS2",
+            "domain" : "社会/家庭状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我得到朋友的支持",
+            "tag": "GS3",
+            "domain" : "社会/家庭状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我的家人已能正视我患病这一事实",
+            "tag": "GS4",
+            "domain" : "社会/家庭状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我高兴和家里人谈论我的病情",
+            "tag": "GS5",
+            "domain" : "社会/家庭状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我与自己的配偶（或给我主要支持的人）很亲近",
+            "tag": "GS6",
+            "domain" : "社会/家庭状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我对自己的性生活感到满意",
+            "tag": "GS7",
+            "domain" : "社会/家庭状况",
+            "required" : false,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我感到悲伤",
+            "tag": "GE1",
+            "domain" : "情感状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我为自己这样对待疾病感到自豪",
+            "tag": "GE2",
+            "domain" : "情感状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "在与疾病的抗争中，我越来越感到失望",
+            "tag": "GE3",
+            "domain" : "情感状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我感到紧张",
+            "tag": "GE4",
+            "domain" : "情感状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我担心可能会去世",
+            "tag": "GE5",
+            "domain" : "情感状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我担心自己的病情会更糟",
+            "tag": "GE6",
+            "domain" : "情感状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我能够工作（包括家里的工作）",
+            "tag": "GF1",
+            "domain" : "功能状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我的工作（包括家里的工作）令我有成就感",
+            "tag": "GF2",
+            "domain" : "功能状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我能够享受生活",
+            "tag": "GF3",
+            "domain" : "功能状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我已能面对自己的疾病",
+            "tag": "GF4",
+            "domain" : "功能状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我睡的很好",
+            "tag": "GF5",
+            "domain" : "功能状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我在享受我过去常做的娱乐活动",
+            "tag": "GF6",
+            "domain" : "功能状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我对现在的生活质量感到满意",
+            "tag": "GF7",
+            "domain" : "功能状况",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我一直气促",
+            "tag": "B1",
+            "domain" : "附加关注",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "（由于疾病）我在意自己的穿着打扮",
+            "tag": "B2",
+            "domain" : "附加关注",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我的一只或两只胳膊肿胀或无力",
+            "tag": "B3",
+            "domain" : "附加关注",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我感到在性方面有吸引力",
+            "tag": "B4",
+            "domain" : "附加关注",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "脱发使我烦恼",
+            "tag": "B5",
+            "domain" : "附加关注",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我担心家里其他人有一天会得和我一样的疾病",
+            "tag": "B6",
+            "domain" : "附加关注",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我担心紧张对我的疾病造成的影响",
+            "tag": "B7",
+            "domain" : "附加关注",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "体重的变化使我烦恼",
+            "tag": "B8",
+            "domain" : "附加关注",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我仍能感到像一个女人",
+            "tag": "B9",
+            "domain" : "附加关注",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "我的身体的一部分很明显能感到疼痛",
+            "tag": "P2",
+            "domain" : "附加关注",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "一点也不",
+                    "score" : 0
+                },
+                {
+                    "name" : "有一点",
+                    "score" : 1
+                },
+                {
+                    "name" : "有些",
+                    "score" : 2
+                },
+                {
+                    "name" : "相当",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常",
+                    "score" : 4
+                }
+            ]
+        }
+    ]
+}

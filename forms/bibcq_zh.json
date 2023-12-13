@@ -1,0 +1,1356 @@
+{
+    "pro_name" : "乳腺癌后身体形象问卷",
+    "pro_desc" : "这份表单希望了解您过去1个月当中的对自己身体形象的看法。",
+    "items" : [
+        {
+            "name": "我尽量隐藏自己的身体", 
+            "tag": "Q1",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我手臂的感觉很正常", 
+            "tag": "Q2",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我避免看我胸部手术留下的伤疤。", 
+            "tag": "Q3",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我觉得我体内有一颗定时炸弹", 
+            "tag": "Q4",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我白天很困", 
+            "tag": "Q5",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我对自己的精力水平感到满意", 
+            "tag": "Q6",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我觉得我容易得癌症", 
+            "tag": "Q7",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我对自己的身体外形很满意", 
+            "tag": "Q8",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "自从得了癌症后，我觉得自己没那么女性化了", 
+            "tag": "Q9",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我喜欢自己的身体", 
+            "tag": "Q10",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我对自己锻炼时的样子很满意", 
+            "tag": "Q11",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我会觉得在公共更衣室换衣服很自然", 
+            "tag": "Q12",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我觉得我的身体被侵犯了", 
+            "tag": "Q13",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我对我手臂的表现很满意", 
+            "tag": "Q14",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我觉得我的身体让我失望", 
+            "tag": "Q15",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我喜欢我本来的样子", 
+            "tag": "Q16",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "其他人不得不接替我的工作", 
+            "tag": "Q17",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我觉得我的一部分身体必须隐藏起来", 
+            "tag": "Q18",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我害怕触摸乳房手术留下的疤痕", 
+            "tag": "Q19",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我对我的臀部很满意", 
+            "tag": "Q20",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我避免亲密的身体接触，比如拥抱", 
+            "tag": "Q21",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我觉得有什么东西在控制我的身体", 
+            "tag": "Q22",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我对我的臀部形状很满意", 
+            "tag": "Q23",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不同意",
+                    "score" : 1
+                },
+                {
+                    "name" : "不同意",
+                    "score" : 2
+                },
+                {
+                    "name" : "不同意也不反对",
+                    "score" : 3
+                },
+                {
+                    "name" : "同意",
+                    "score" : 4
+                },
+                {
+                    "name" : "非常同意",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我觉得人们都在看我的胸部", 
+            "tag": "Q29",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我避免身体亲密接触", 
+            "tag": "Q30",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我感觉人们在看我", 
+            "tag": "Q31",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我在换衣服的时候把身体掩盖起来", 
+            "tag": "Q32",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我担心癌症正在扩散", 
+            "tag": "Q33",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我需要消除对胸部的外观的疑虑", 
+            "tag": "Q34",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我会思考有关乳腺癌的事情", 
+            "tag": "Q35",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "疲劳干扰了我的生活", 
+            "tag": "Q36",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我觉得裸体的时候很性感", 
+            "tag": "Q37",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "手臂肿胀对我来说是个问题", 
+            "tag": "Q38",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我担心自己的身体", 
+            "tag": "Q39",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我在做爱的时候会遮住胸部", 
+            "tag": "Q40",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我对自己的身体感到愤怒", 
+            "tag": "Q41",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我需要保证我的健康", 
+            "tag": "Q42",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我可以参加正常的活动", 
+            "tag": "Q43",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我很难集中注意力", 
+            "tag": "Q44",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我的身体阻止我做我想做的事情", 
+            "tag": "Q45",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我觉得我的胸部在别人看来是凹凸不平的", 
+            "tag": "Q46",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "手臂痛对我来说是个问题", 
+            "tag": "Q47",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我担心出现轻微的疼痛", 
+            "tag": "Q48",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我感觉状态很正常", 
+            "tag": "Q49",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        },
+        {
+            "name": "我觉得人们能看出来我的乳房不正常", 
+            "tag": "Q50",
+            "domain" : "回应",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有/几乎没有",
+                    "score" : 1
+                },
+                {
+                    "name" : "很少",
+                    "score" : 2
+                },
+                {
+                    "name" : "有时",
+                    "score" : 3
+                },
+                {
+                    "name" : "经常",
+                    "score" : 4
+                },
+                {
+                    "name" : "总是/几乎总是",
+                    "score" : 5
+                }
+            ]
+        }
+    ]
+}

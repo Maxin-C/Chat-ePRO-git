@@ -1,0 +1,336 @@
+{
+    "pro_name" : "术后反馈问卷",
+    "pro_desc" : "这份表单希望了解您对于本次乳腺结节手术的评价以及术后感受。",
+    "items" : [
+        {
+            "name": "请问您接受的手术是什么术式？", 
+            "tag": "Q1",
+            "domain" : "良性乳房肿物术式判断",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "乳房结节麦默通微创手术",
+                    "score" : 0
+                },
+                {
+                    "name" : "乳房结节开放切除手术",
+                    "score" : 1
+                }
+            ]
+        },
+        {
+            "name": "在术前您是否感受到疼痛不适？", 
+            "tag": "Q2",
+            "domain" : "术前疼痛/不适",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有",
+                    "score" : 0
+                },
+                {
+                    "name" : "轻度",
+                    "score" : 1
+                },
+                {
+                    "name" : "中度",
+                    "score" : 2
+                },
+                {
+                    "name" : "严重",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常严重",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "在术前您是否感受到害怕或者焦虑不安？", 
+            "tag": "Q3",
+            "domain" : "术前害怕/焦虑",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有",
+                    "score" : 0
+                },
+                {
+                    "name" : "轻度",
+                    "score" : 1
+                },
+                {
+                    "name" : "中度",
+                    "score" : 2
+                },
+                {
+                    "name" : "严重",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常严重",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "请您回忆在手术过程中，您是否感受到疼痛不适？", 
+            "tag": "Q4",
+            "domain" : "术前疼痛/不适",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有",
+                    "score" : 0
+                },
+                {
+                    "name" : "轻度",
+                    "score" : 1
+                },
+                {
+                    "name" : "中度",
+                    "score" : 2
+                },
+                {
+                    "name" : "严重",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常严重",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "请你回忆，在手术过程中，您是否感受到尴尬，比如暴露身体部位，移动部位等。", 
+            "tag": "Q5",
+            "domain" : "术中尴尬/不适",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有",
+                    "score" : 0
+                },
+                {
+                    "name" : "轻度",
+                    "score" : 1
+                },
+                {
+                    "name" : "中度",
+                    "score" : 2
+                },
+                {
+                    "name" : "严重",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常严重",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "在术中您是否感受到害怕或者焦虑不安？", 
+            "tag": "Q6",
+            "domain" : "术中害怕/焦虑",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有",
+                    "score" : 0
+                },
+                {
+                    "name" : "轻度",
+                    "score" : 1
+                },
+                {
+                    "name" : "中度",
+                    "score" : 2
+                },
+                {
+                    "name" : "严重",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常严重",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "请您回忆，在术后短期内您是否出现焦虑，紧张，担忧，无法集中精力等情况？", 
+            "tag": "Q7",
+            "domain" : "术后认知功能变化",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有",
+                    "score" : 0
+                },
+                {
+                    "name" : "轻度",
+                    "score" : 1
+                },
+                {
+                    "name" : "中度",
+                    "score" : 2
+                },
+                {
+                    "name" : "严重",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常严重",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "请您回忆，在术后短期内您是否出现躯体活动障碍，比如上肢活动受限等。", 
+            "tag": "Q8",
+            "domain" : "术后生理功能变化",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "没有",
+                    "score" : 0
+                },
+                {
+                    "name" : "轻度",
+                    "score" : 1
+                },
+                {
+                    "name" : "中度",
+                    "score" : 2
+                },
+                {
+                    "name" : "严重",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常严重",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "您对手术疤痕、术区美观程度是否满意？", 
+            "tag": "Q9",
+            "domain" : "术后对美观、疤痕满意程度",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "非常不满意",
+                    "score" : 0
+                },
+                {
+                    "name" : "不满意",
+                    "score" : 1
+                },
+                {
+                    "name" : "一般",
+                    "score" : 2
+                },
+                {
+                    "name" : "满意",
+                    "score" : 3
+                },
+                {
+                    "name" : "非常满意",
+                    "score" : 4
+                }
+            ]
+        },
+        {
+            "name": "请问您术后复查是否发现乳房结节复发？", 
+            "tag": "Q10",
+            "domain" : "哺乳复发",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "否",
+                    "score" : 0
+                },
+                {
+                    "name" : "是",
+                    "score" : 1
+                }
+            ]
+        },
+        {
+            "name": "请问您术后是否有妊娠哺乳？", 
+            "tag": "Q11",
+            "domain" : "哺乳复发",
+            "required" : true,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "否",
+                    "score" : 0
+                },
+                {
+                    "name" : "是",
+                    "score" : 1
+                }
+            ]
+        },
+        {
+            "name": "请问您哺乳过程是否顺利？手术一侧的乳房是否出现乳腺炎，乳腺脓肿的情况？", 
+            "tag": "Q12",
+            "domain" : "哺乳复发",
+            "required" : false,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "否",
+                    "score" : 0
+                },
+                {
+                    "name" : "是",
+                    "score" : 1
+                }
+            ]
+        },
+        {
+            "name": "术后是否出现血肿？", 
+            "tag": "Q13",
+            "domain" : "哺乳复发",
+            "required" : false,
+            "type" : "one-choice",
+            "result": "",
+            "options": [
+                {
+                    "name" : "否",
+                    "score" : 0
+                },
+                {
+                    "name" : "是",
+                    "score" : 1
+                }
+            ]
+        }
+    ]
+}
