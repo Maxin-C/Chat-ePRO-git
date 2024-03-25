@@ -8,4 +8,4 @@ The `corpus example` folder contains datasets for BIBCQ, FACT-B, and TMI forms a
 
 The `forms` folder contains the content of the three forms in Chinese. This is the data structure used in our experiment.
 
-The `results` folder contains an Excel that display FP, FN, TP, ACC, P, R and F1 results of five downstream tasks.
+The `results` folder contains an Excel that display FP, FN, TP, ACC, P, R and F1 results of five downstream tasks. 
